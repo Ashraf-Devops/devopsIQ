@@ -1,2 +1,2 @@
-FROM ashraf/webapp
-ADD . /devopsIQ /var/www/html/devopsIQ
+FROM ashrafdoc/webapp
+ADD ./devopsIQ /var/www/html/devopsIQ
